@@ -1,4 +1,0 @@
-{
-  "modules": true,
-  "plugins": ["postcss-nested"]
-}
